@@ -1,0 +1,1 @@
+This is a simple flutter application. In the backend, it makes use of a pytorch model that was trained on 2 different classes: pepe meme and doge meme. The data set was created after scraping the web using the beautifulsoup library in python.
